@@ -1,0 +1,154 @@
+month,state,district,pincode,bio_age_5_17,bio_18p,enroll_18p,bio_rate_18p,low_anomaly,zero_anomaly
+2025-03-01,assam,Kokrajhar,783339,16,1,24.0,0.041666666666666664,True,False
+2025-04-01,meghalaya,South West Khasi Hills,793119,27,33,642.0,0.0514018691588785,True,False
+2025-05-01,meghalaya,South West Khasi Hills,793119,28,13,544.0,0.02389705882352941,True,False
+2025-07-01,meghalaya,North Garo Hills,794002,45,22,410.0,0.05365853658536585,True,False
+2025-07-01,meghalaya,South West Khasi Hills,793119,40,21,855.0,0.02456140350877193,True,False
+2025-09-01,assam,Chirang,781317,9,0,2.0,0.0,True,True
+2025-09-01,assam,Chirang,783360,1,0,1.0,0.0,True,True
+2025-09-01,assam,Dhemaji,787055,2,0,1.0,0.0,True,True
+2025-09-01,assam,Karbi Anglong,782121,1,0,11.0,0.0,True,True
+2025-09-01,assam,Lakhimpur,787034,1,0,3.0,0.0,True,True
+2025-09-01,assam,Majuli,785614,6,1,40.0,0.025,True,False
+2025-09-01,assam,Nagaon,782441,1,0,40.0,0.0,True,True
+2025-09-01,assam,West Karbi Anglong,782410,0,1,25.0,0.04,True,False
+2025-09-01,assam,West Karbi Anglong,782448,0,1,17.0,0.058823529411764705,True,False
+2025-09-01,assam,West Karbi Anglong,782450,1,0,41.0,0.0,True,True
+2025-09-01,assam,West Karbi Anglong,782450,1,0,10.0,0.0,True,True
+2025-09-01,dadra and nagar haveli and daman and diu,Diu,362520,1,0,3.0,0.0,True,True
+2025-09-01,goa,Bardez,403513,2,0,1.0,0.0,True,True
+2025-09-01,meghalaya,East Garo Hills,793106,1,0,1.0,0.0,True,True
+2025-09-01,meghalaya,East Garo Hills,793106,1,0,15.0,0.0,True,True
+2025-09-01,meghalaya,East Garo Hills,794002,1,0,18.0,0.0,True,True
+2025-09-01,meghalaya,East Garo Hills,794002,1,0,38.0,0.0,True,True
+2025-09-01,meghalaya,East Khasi Hills,793120,1,0,2.0,0.0,True,True
+2025-09-01,meghalaya,East Khasi Hills,793120,1,0,2.0,0.0,True,True
+2025-09-01,meghalaya,East Khasi Hills,793120,1,0,45.0,0.0,True,True
+2025-09-01,meghalaya,Eastern West Khasi Hills,793120,1,3,45.0,0.06666666666666667,True,False
+2025-09-01,meghalaya,Jaintia Hills,793200,0,4,121.0,0.03305785123966942,True,False
+2025-09-01,meghalaya,North Garo Hills,794104,0,1,57.0,0.017543859649122806,True,False
+2025-09-01,meghalaya,Ri Bhoi,793104,8,0,6.0,0.0,True,True
+2025-09-01,meghalaya,South West Garo Hills,794103,0,2,52.0,0.038461538461538464,True,False
+2025-09-01,meghalaya,South West Khasi Hills,793119,13,10,277.0,0.036101083032490974,True,False
+2025-09-01,meghalaya,West Garo Hills,794115,0,1,56.0,0.017857142857142856,True,False
+2025-09-01,mizoram,Mamit,796081,1,0,3.0,0.0,True,True
+2025-09-01,sikkim,South Sikkim,737121,1,0,2.0,0.0,True,True
+2025-09-01,sikkim,South Sikkim,737121,1,0,1.0,0.0,True,True
+2025-10-01,assam,Baksa,781313,2,0,1.0,0.0,True,True
+2025-10-01,assam,Baksa,781316,4,0,1.0,0.0,True,True
+2025-10-01,assam,Baksa,781352,1,0,2.0,0.0,True,True
+2025-10-01,assam,Cachar,788161,2,2,34.0,0.058823529411764705,True,False
+2025-10-01,assam,Cachar,788163,1,0,1.0,0.0,True,True
+2025-10-01,assam,Chirang,783360,1,2,49.0,0.04081632653061224,True,False
+2025-10-01,assam,Dhubri,783360,0,1,49.0,0.02040816326530612,True,False
+2025-10-01,assam,Hailakandi,788007,1,0,3.0,0.0,True,True
+2025-10-01,assam,Hailakandi,788816,1,1,13.0,0.07692307692307693,True,False
+2025-10-01,assam,Jorhat,785614,3,1,16.0,0.0625,True,False
+2025-10-01,assam,Kamrup,781019,0,1,22.0,0.045454545454545456,True,False
+2025-10-01,assam,Kamrup,781022,0,1,29.0,0.034482758620689655,True,False
+2025-10-01,assam,Kamrup,781026,0,1,15.0,0.06666666666666667,True,False
+2025-10-01,assam,Kamrup,781028,0,1,20.0,0.05,True,False
+2025-10-01,assam,Kamrup,781029,0,1,25.0,0.04,True,False
+2025-10-01,assam,Kamrup,781034,0,1,28.0,0.03571428571428571,True,False
+2025-10-01,assam,Majuli,785614,1,0,16.0,0.0,True,True
+2025-10-01,assam,Sonitpur,784527,1,0,1.0,0.0,True,True
+2025-10-01,assam,West Karbi Anglong,782410,1,0,10.0,0.0,True,True
+2025-10-01,assam,West Karbi Anglong,782410,1,0,4.0,0.0,True,True
+2025-10-01,assam,West Karbi Anglong,782410,1,0,15.0,0.0,True,True
+2025-10-01,assam,West Karbi Anglong,782448,1,1,55.0,0.01818181818181818,True,False
+2025-10-01,meghalaya,East Jaintia Hills,793150,3,0,40.0,0.0,True,True
+2025-10-01,meghalaya,East Jaintia Hills,793151,1,0,1.0,0.0,True,True
+2025-10-01,meghalaya,East Jaintia Hills,793151,1,0,52.0,0.0,True,True
+2025-10-01,meghalaya,Jaintia Hills,793150,0,1,40.0,0.025,True,False
+2025-10-01,meghalaya,Jaintia Hills,793200,1,0,55.0,0.0,True,True
+2025-10-01,meghalaya,North Garo Hills,794104,1,0,34.0,0.0,True,True
+2025-10-01,meghalaya,South West Garo Hills,794109,1,0,40.0,0.0,True,True
+2025-10-01,meghalaya,South West Khasi Hills,793119,11,5,279.0,0.017921146953405017,True,False
+2025-10-01,meghalaya,South West Khasi Hills,793120,1,0,1.0,0.0,True,True
+2025-10-01,meghalaya,South West Khasi Hills,793120,1,0,2.0,0.0,True,True
+2025-10-01,meghalaya,South West Khasi Hills,793120,1,0,18.0,0.0,True,True
+2025-10-01,mizoram,Khawzawl,796310,3,0,7.0,0.0,True,True
+2025-10-01,mizoram,Khawzawl,796310,3,0,16.0,0.0,True,True
+2025-10-01,mizoram,Kolasib,796014,54,0,4.0,0.0,True,True
+2025-10-01,mizoram,Mamit,796081,1,0,1.0,0.0,True,True
+2025-10-01,mizoram,Saiha,796891,2,0,2.0,0.0,True,True
+2025-10-01,mizoram,Serchhip,796310,2,1,16.0,0.0625,True,False
+2025-10-01,sikkim,South Sikkim,737113,1,0,1.0,0.0,True,True
+2025-10-01,sikkim,South Sikkim,737113,1,0,1.0,0.0,True,True
+2025-10-01,sikkim,South Sikkim,737121,1,0,1.0,0.0,True,True
+2025-11-01,assam,Bajali,781328,1,0,1.0,0.0,True,True
+2025-11-01,assam,Baksa,781316,4,0,1.0,0.0,True,True
+2025-11-01,assam,Barpeta,781338,3,0,3.0,0.0,True,True
+2025-11-01,assam,Bongaigaon,783334,1,0,1.0,0.0,True,True
+2025-11-01,assam,Cachar,788709,1,0,2.0,0.0,True,True
+2025-11-01,assam,Chirang,783337,1,0,4.0,0.0,True,True
+2025-11-01,assam,Chirang,783360,0,1,38.0,0.02631578947368421,True,False
+2025-11-01,assam,Dhemaji,787001,1,0,1.0,0.0,True,True
+2025-11-01,assam,Dhemaji,787032,0,1,25.0,0.04,True,False
+2025-11-01,assam,Dhubri,783360,0,1,38.0,0.02631578947368421,True,False
+2025-11-01,assam,Dima Hasao,788830,2,0,21.0,0.0,True,True
+2025-11-01,assam,Hailakandi,788102,0,1,12.0,0.08333333333333333,True,False
+2025-11-01,assam,Jorhat,785013,2,0,1.0,0.0,True,True
+2025-11-01,assam,Jorhat,785614,1,0,1.0,0.0,True,True
+2025-11-01,assam,Kamrup,781016,3,0,2.0,0.0,True,True
+2025-11-01,assam,Kamrup,781019,0,2,49.0,0.04081632653061224,True,False
+2025-11-01,assam,Kamrup,781021,1,0,3.0,0.0,True,True
+2025-11-01,assam,Kamrup,781022,0,1,47.0,0.02127659574468085,True,False
+2025-11-01,assam,Kamrup,781024,0,1,21.0,0.047619047619047616,True,False
+2025-11-01,assam,Kamrup,781029,0,2,67.0,0.029850746268656716,True,False
+2025-11-01,assam,Kamrup,781036,1,0,24.0,0.0,True,True
+2025-11-01,assam,Kamrup,781037,1,1,19.0,0.05263157894736842,True,False
+2025-11-01,assam,Kamrup,781171,1,0,1.0,0.0,True,True
+2025-11-01,assam,Majuli,785614,6,0,1.0,0.0,True,True
+2025-11-01,assam,Marigaon,782001,1,0,1.0,0.0,True,True
+2025-11-01,assam,Nagaon,782441,1,2,54.0,0.037037037037037035,True,False
+2025-11-01,assam,Nalbari,781344,1,0,1.0,0.0,True,True
+2025-11-01,assam,Nalbari,781375,1,0,1.0,0.0,True,True
+2025-11-01,assam,Sribhumi,788734,1,0,1.0,0.0,True,True
+2025-11-01,assam,Udalguri,784115,2,1,87.0,0.011494252873563218,True,False
+2025-11-01,assam,Udalguri,784116,5,0,110.0,0.0,True,True
+2025-11-01,assam,Udalguri,784116,5,0,2.0,0.0,True,True
+2025-11-01,assam,Udalguri,784146,1,1,110.0,0.00909090909090909,True,False
+2025-11-01,goa,Bardez,403501,1,0,1.0,0.0,True,True
+2025-11-01,meghalaya,East Garo Hills,793106,0,1,13.0,0.07692307692307693,True,False
+2025-11-01,meghalaya,East Garo Hills,793150,1,0,153.0,0.0,True,True
+2025-11-01,meghalaya,East Khasi Hills,793120,2,0,3.0,0.0,True,True
+2025-11-01,meghalaya,East Khasi Hills,793120,2,0,27.0,0.0,True,True
+2025-11-01,meghalaya,Eastern West Khasi Hills,793120,0,2,27.0,0.07407407407407407,True,False
+2025-11-01,meghalaya,Jaintia Hills,793150,0,2,153.0,0.013071895424836602,True,False
+2025-11-01,meghalaya,North Garo Hills,794104,2,0,73.0,0.0,True,True
+2025-11-01,meghalaya,Ri Bhoi,781131,14,1,15.0,0.06666666666666667,True,False
+2025-11-01,meghalaya,Ri Bhoi,793002,1,0,16.0,0.0,True,True
+2025-11-01,meghalaya,Ri Bhoi,793116,1,0,25.0,0.0,True,True
+2025-11-01,meghalaya,Ri Bhoi,793123,1,0,1.0,0.0,True,True
+2025-11-01,meghalaya,South Garo Hills,794102,23,5,97.0,0.05154639175257732,True,False
+2025-11-01,meghalaya,South West Khasi Hills,793119,54,7,151.0,0.046357615894039736,True,False
+2025-11-01,meghalaya,West Garo Hills,794003,2,0,4.0,0.0,True,True
+2025-11-01,meghalaya,West Garo Hills,794106,1,0,8.0,0.0,True,True
+2025-11-01,meghalaya,West Khasi Hills,793008,0,1,21.0,0.047619047619047616,True,False
+2025-11-01,meghalaya,West Khasi Hills,793017,2,0,23.0,0.0,True,True
+2025-11-01,mizoram,Mammit,796005,1,0,1.0,0.0,True,True
+2025-11-01,mizoram,Saiha,796891,1,0,1.0,0.0,True,True
+2025-12-01,assam,Baksa,781335,1,0,1.0,0.0,True,True
+2025-12-01,assam,Cachar,788155,2,0,9.0,0.0,True,True
+2025-12-01,assam,Cachar,788163,1,0,1.0,0.0,True,True
+2025-12-01,assam,Darrang,784509,3,0,5.0,0.0,True,True
+2025-12-01,assam,Darrang,784510,1,0,4.0,0.0,True,True
+2025-12-01,assam,Dhemaji,787055,4,1,16.0,0.0625,True,False
+2025-12-01,assam,Dhubri,783101,2,0,11.0,0.0,True,True
+2025-12-01,assam,Golaghat,785630,1,0,4.0,0.0,True,True
+2025-12-01,assam,Kamrup,781006,1,0,1.0,0.0,True,True
+2025-12-01,assam,Kamrup,781025,1,0,1.0,0.0,True,True
+2025-12-01,assam,Tinsukia,786179,27,0,1.0,0.0,True,True
+2025-12-01,meghalaya,East Garo Hills,794002,2,0,30.0,0.0,True,True
+2025-12-01,meghalaya,East Garo Hills,794002,2,0,3.0,0.0,True,True
+2025-12-01,meghalaya,Eastern West Khasi Hills,793120,1,1,577.0,0.0017331022530329288,True,False
+2025-12-01,meghalaya,Eastern West Khasi Hills,793120,1,1,18.0,0.05555555555555555,True,False
+2025-12-01,meghalaya,North Garo Hills,783134,5,4,81.0,0.04938271604938271,True,False
+2025-12-01,meghalaya,Ri Bhoi,793122,3,0,2.0,0.0,True,True
+2025-12-01,meghalaya,South West Khasi Hills,793119,18,2,66.0,0.030303030303030304,True,False
+2025-12-01,meghalaya,West Jaintia Hills,793161,7,0,1.0,0.0,True,True
+2025-12-01,meghalaya,West Khasi Hills,793120,65,34,577.0,0.058925476603119586,True,False
+2025-12-01,sikkim,South,737111,1,0,1.0,0.0,True,True
+2025-12-01,sikkim,South,737111,1,0,2.0,0.0,True,True
+2025-12-01,sikkim,South Sikkim,737113,1,0,3.0,0.0,True,True
