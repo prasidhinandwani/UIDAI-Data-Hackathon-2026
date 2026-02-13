@@ -101,7 +101,7 @@ Export & Visualize
 
 3. **Composite Risk Score**
     - Formula:
-       0.5×(zero-ratio) + 0.3×(anomaly-ratio) + 0.2×(severity)
+       ```0.5×(zero-ratio) + 0.3×(anomaly-ratio) + 0.2×(severity)```
     - Components:
        - **Zero Ratio (50%)**: `zero_months / total_months` — frequency of complete failures
        - **Anomaly Ratio (30%)**: `anomaly_months / total_months` — frequency of low-performance months
@@ -306,6 +306,7 @@ Outputs include summary CSVs (`critical_pincodes.csv`, `critical_districts.csv`,
 ---
 
 **Document Version**: 1.0 | **Last Updated**: Feb 13, 2026 | **For**: UIDAI Data Hackathon 2026
+
 
 
 
