@@ -186,7 +186,8 @@ Outputs include summary CSVs (`critical_pincodes.csv`, `critical_districts.csv`,
 - **Use**: Relationships section
 - **Shows**: Strong correlation (demographic↔biometric); weak correlation (enrollment↔completion)
 
-<img width="1389" height="490" alt="image" src="https://github.com/user-attachments/assets/af03134e-87ab-40db-996b-8c98595472c0" />
+<img width="558" height="484" alt="image" src="https://github.com/user-attachments/assets/6afaa530-b0a3-4d12-824e-3b562704771b" />
+
 
 
 ---
@@ -306,6 +307,7 @@ Outputs include summary CSVs (`critical_pincodes.csv`, `critical_districts.csv`,
 ---
 
 **Document Version**: 1.0 | **Last Updated**: Feb 13, 2026 | **For**: UIDAI Data Hackathon 2026
+
 
 
 
