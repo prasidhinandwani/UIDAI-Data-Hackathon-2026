@@ -67,7 +67,7 @@ The analysis uses three primary data sources from the UIDAI Aadhaar enrollment s
 ### Analysis Methodology
 
 #### Data Processing Pipeline
-
+```
 Raw CSV files
       ↓
 Load & Concatenate (per folder)
@@ -87,7 +87,7 @@ Summarize (pincode & district levels)
 Risk Scoring (composite)
       ↓
 Export & Visualize
-
+```
 #### Key Metrics
 
 1. **Biometric Completion Rate (18+)**
@@ -306,6 +306,7 @@ Outputs include summary CSVs (`critical_pincodes.csv`, `critical_districts.csv`,
 ---
 
 **Document Version**: 1.0 | **Last Updated**: Feb 13, 2026 | **For**: UIDAI Data Hackathon 2026
+
 
 
 
