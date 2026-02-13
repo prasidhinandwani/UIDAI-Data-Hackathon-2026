@@ -48,8 +48,8 @@ Analyzes biometric completion rates across 7 high-risk states (Assam, Dadra & Na
 **Figure 1**: Histogram/KDE, Boxplot, Log-Transformed (3-panel)
 - **Use**: Opening section to establish scale and pattern
 - **Shows**: Concentration at low rates, outliers, underlying log-normality
-
-![alt text](image.png)
+  
+<img width="1784" height="584" alt="image" src="https://github.com/user-attachments/assets/35fdd520-327f-4e60-8595-fa0275f5e531" />
 
 ### 2. State-Level Disparities  
 **Key Insight**: States vary 100x (from <50 to >500); most cluster below average.
@@ -60,7 +60,9 @@ Analyzes biometric completion rates across 7 high-risk states (Assam, Dadra & Na
 **Figure 2**: State Ranking (Log Scale)
 - **Use**: After distribution section
 - **Shows**: All states ranked; stark disparities; "low" is national norm
-![alt text](image-1.png)
+
+<img width="1184" height="984" alt="image" src="https://github.com/user-attachments/assets/fa89c107-6653-4b6f-be22-a6a348aada5a" />
+
 
 ### 3. Temporal Trends
 **Key Insight**: Month-to-month volatility indicates response to operational factors (maintenance, policy, external events).
@@ -68,7 +70,9 @@ Analyzes biometric completion rates across 7 high-risk states (Assam, Dadra & Na
 **Figure 3**: Monthly Trend Line
 - **Use**: Temporal analysis section
 - **Shows**: Upward trend = expansion; downward = deterioration; sharp drops merit investigation
-![alt text](image-2.png)
+
+<img width="1184" height="784" alt="image" src="https://github.com/user-attachments/assets/554ea705-ee67-4350-9fac-b216f46dcb75" />
+
 
 ### 4. Anomalies
 **Definitions**: 
@@ -78,7 +82,9 @@ Analyzes biometric completion rates across 7 high-risk states (Assam, Dadra & Na
 **Figures 4-5**: Scatter plot (temporal-severity by state) + State time-series (with anomalies highlighted)
 - **Use**: After anomaly definitions
 - **Shows**: Vertical clusters = system-wide disruptions; horizontal bands = chronic failures; state color concentration reveals worst-affected regions
-![alt text](image-3.png)
+
+<img width="1401" height="585" alt="image" src="https://github.com/user-attachments/assets/15d96afa-742a-4202-8ac4-4bc10049dd91" />
+
 
 ### 5. Correlations
 **Key Insight**: Demographic-biometric rates move together; enrollment volume alone doesn't guarantee completion.
@@ -86,7 +92,9 @@ Analyzes biometric completion rates across 7 high-risk states (Assam, Dadra & Na
 **Figure 6**: Correlation Heatmap
 - **Use**: Relationships section
 - **Shows**: Strong correlation (demographic↔biometric); weak correlation (enrollment↔completion)
-![alt text](image-4.png)
+
+<img width="1389" height="490" alt="image" src="https://github.com/user-attachments/assets/af03134e-87ab-40db-996b-8c98595472c0" />
+
 
 ---
 
@@ -109,9 +117,11 @@ Analyzes biometric completion rates across 7 high-risk states (Assam, Dadra & Na
 **Right Panel (Non-Zero Rate Distribution - Log Scale)**:
 - Shows operational efficiency when functioning
 - Log scale accommodates wide range
-![alt text](image-5.png)
 
-![alt text](image-6.png)
+<img width="1389" height="490" alt="image" src="https://github.com/user-attachments/assets/0a4070a9-21fd-42e0-b538-deb9cd0eda2a" />
+
+<img width="1389" height="490" alt="image" src="https://github.com/user-attachments/assets/2959b6c5-60f5-4355-bba9-f0a689e38b9d" />
+
 
 **State Summaries**:
 - **ASSAM**: Distributed network; 30-40% of pincodes fail >50% of months
@@ -129,7 +139,8 @@ Analyzes biometric completion rates across 7 high-risk states (Assam, Dadra & Na
 - **Interpretation**: Vertical clusters=system-wide events; horizontal bands=chronic pincode failures
 - **Use**: Synthesis section; reveals concurrent vs. scattered failure patterns
 
-![alt text](image-7.png)
+<img width="1178" height="590" alt="image" src="https://github.com/user-attachments/assets/7b7fdbb2-593a-43d0-bb53-cf1f70629862" />
+
 
 ---
 
@@ -202,3 +213,4 @@ Analyzes biometric completion rates across 7 high-risk states (Assam, Dadra & Na
 ---
 
 **Document Version**: 1.0 | **Last Updated**: Feb 13, 2026 | **For**: UIDAI Data Hackathon 2026
+
